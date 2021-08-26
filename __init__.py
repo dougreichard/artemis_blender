@@ -12,7 +12,7 @@
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 bl_info = {
-    "name" : "Sbs Blender",
+    "name" : "Artemis Cosmos Blender",
     "author" : "Doug Reichard",
     "description" : "",
     "blender" : (2, 93, 0),
